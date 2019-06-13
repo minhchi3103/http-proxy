@@ -1,0 +1,7 @@
+HTTP/1.1 403 Forbidden
+Last-Modified: Wed, 12 Jun 2019 00:15:56 GMT
+Content-Length: 102
+Content-Type: text/html
+Connection: Closed
+
+<html><head><title>Request blocked</title></head><body><h1>Request blocked by proxy</h1></body></html>
